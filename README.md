@@ -1,2 +1,2 @@
-# Projeto-Tela-de-Login
-Tela de Login usando HTML &amp; CSS
+# Login screen
+Login screen using HTML & CSS
